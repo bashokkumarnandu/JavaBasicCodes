@@ -1,0 +1,11 @@
+Progressions:
+
+There are three different types of progressions. They are:
+1.Arithmetic Progression (AP)
+2.Geometric Progression (GP)
+3.Harmonic Progression (HP)
+A progression is a special type of sequence for which it is possible to obtain a formula for the nth term. 
+The Arithmetic Progression is the most commonly used sequence in maths with easy to understand formulas. 
+Definition 1: A mathematical sequence in which the difference between two consecutive terms is always a constant and it is abbreviated as AP.
+Definition 2: An arithmetic sequence or progression is defined as a sequence of numbers in which for every pair of consecutive terms, 
+the second number is obtained by adding a fixed number to the first one.
